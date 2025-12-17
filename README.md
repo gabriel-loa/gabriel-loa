@@ -1,16 +1,31 @@
-## Hi there 👋
+# Gabriel
 
-<!--
-**gabriel-loa/gabriel-loa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou estudante de programação, com interesse em desenvolvimento de software e aprendizado contínuo. Busco evoluir minhas habilidades técnicas por meio de projetos práticos e estudos constantes.
 
-Here are some ideas to get you started:
+## Tecnologias
+- HTML  
+- CSS  
+- JavaScript  
+- Python  
+- C  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objetivos
+- Aprimorar fundamentos em programação
+- Desenvolver projetos pessoais
+- Aprender boas práticas de código
+- Evoluir para projetos mais complexos
+
+## Atualmente estudando
+- Lógica de programação  
+- Estruturas de dados  
+- Desenvolvimento web  
+- Programação em Python e C  
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?gabriel-loa&show_icons=true&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?gabriel-loa&layout=compact)
+
+## Contato
+- GitHub: https://github.com/gabriel-loa
