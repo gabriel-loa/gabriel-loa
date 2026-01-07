@@ -1,28 +1,9 @@
 # Gabriel - Loa
 
-## Sobre mim
-Sou estudante de programação, com interesse em desenvolvimento de software e aprendizado contínuo. Busco evoluir minhas habilidades técnicas por meio de projetos práticos e estudos constantes.
-
-## Tecnologias
-- HTML  
-- CSS  
-- JavaScript  
-- Python  
-- C  
-
-## Objetivos
-- Aprimorar fundamentos em programação  
-- Desenvolver projetos pessoais  
-- Aprender boas práticas de código  
-- Evoluir para projetos mais complexos  
-
-## Atualmente estudando
-- Lógica de programação  
-- Estruturas de dados  
-- Desenvolvimento web  
-- Programação em Python e C  
-
 ## GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-loa)](https://github.com/gabriel-loa/github-readme-stats)
-
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-loaO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-loa&layout=compact&theme=dracula"/>
+  </a>
+</div>
