@@ -1,4 +1,4 @@
-# Gabriel - Loa
+# Gabriel
 
 Oi, aprendendo ainda 👋
 
