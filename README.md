@@ -1,5 +1,7 @@
 # Gabriel - Loa
 
+Oi, aprendendo ainda 👋
+
 ## GitHub Stats
 
 ![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=gabriel-loa&show_icons=true&theme=dracula)
