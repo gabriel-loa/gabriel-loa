@@ -2,6 +2,6 @@
 
 ## GitHub Stats
 
-![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=gabriel-loa&show_icons=true&theme=dracula)
+![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=bieljoko&show_icons=true&theme=dracula)
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-loa&layout=compact&theme=dracula)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=bieljoko&layout=compact&theme=dracula)
