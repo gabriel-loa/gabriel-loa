@@ -33,6 +33,6 @@ Sou estudante de programação, com interesse em desenvolvimento de software e a
   height="165"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-loa&layout=compact&langs_count=8&hide_border=true"
 />
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-loa)](https://github.com/anuraghazra/github-readme-stats)
 ## Contato
 - GitHub: https://github.com/gabriel-loa
